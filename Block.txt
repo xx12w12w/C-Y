@@ -1,5 +1,0 @@
-prin("client ready")
-	if game:GetService("Players").LocalPlayer.UserId == 3355159702 then 
-		print("wrong account?")
-	end
-wait(2)
