@@ -1,5 +1,0 @@
-print("Client Ready")
-	if game:GetService("Players").LocalPlayer.UserId == 3355159702 then 
-		print("Welcome Owner")
-	end
-wait(2)
