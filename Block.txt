@@ -1,0 +1,9 @@
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+print("Client Ready")
+	if game:GetService("Players").LocalPlayer.UserId == 3355159702 then 
+		print("Welcome Owner")
+	end
+wait(2)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xx12w12w/C-Y/main/Clinet.txt'))()
